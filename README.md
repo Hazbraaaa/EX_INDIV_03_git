@@ -1,1 +1,1 @@
-# 03_git
+# Exercice individuel => 03_git
